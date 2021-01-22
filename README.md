@@ -3,7 +3,7 @@ This app shows how to use an electron app to execute an external script and comm
 
 ## Quick setup
 
-Note. Make sure you have dotnet installed.
+Note. Make sure you have [.NET](https://dotnet.microsoft.com/download) installed.
 
 run ```yarn``` &&
 follow the steps ----> 
