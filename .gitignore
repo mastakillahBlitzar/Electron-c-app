@@ -1,3 +1,4 @@
 node_modules
 dist/
 **/electron-cgi.log
+core/Core/obj/*
